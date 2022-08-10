@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio-v2/static/css/main.46a3d5b3.css",
-    "main.js": "/react-portfolio-v2/static/js/main.2b0d29b7.js",
-    "static/media/bibliotecha.jpg": "/react-portfolio-v2/static/media/bibliotecha.4a53fca331c9bc591d83.jpg",
-    "static/media/resume.pdf": "/react-portfolio-v2/static/media/resume.936637b408f088a98502.pdf",
-    "static/media/TPG.jpg": "/react-portfolio-v2/static/media/TPG.6dad5107a22b0d6ac3ce.jpg",
-    "static/media/readme-gen.jpg": "/react-portfolio-v2/static/media/readme-gen.eb0846ee279f9452c125.jpg",
-    "static/media/Note-taker.jpg": "/react-portfolio-v2/static/media/Note-taker.d5cbd60cada02913bc25.jpg",
-    "static/media/breweatheryapp.jpg": "/react-portfolio-v2/static/media/breweatheryapp.39cf5f4c004b3869028e.jpg",
-    "static/media/profilepic.jpg": "/react-portfolio-v2/static/media/profilepic.6f0f9e596a95f66c6c4e.jpg",
-    "static/media/weather-dash.jpg": "/react-portfolio-v2/static/media/weather-dash.fee1549a5ddfa5465d0b.jpg",
-    "index.html": "/react-portfolio-v2/index.html",
-    "main.46a3d5b3.css.map": "/react-portfolio-v2/static/css/main.46a3d5b3.css.map",
-    "main.2b0d29b7.js.map": "/react-portfolio-v2/static/js/main.2b0d29b7.js.map"
+    "main.css": "/React-Portfolio-v2/static/css/main.46a3d5b3.css",
+    "main.js": "/React-Portfolio-v2/static/js/main.46682148.js",
+    "static/media/bibliotecha.jpg": "/React-Portfolio-v2/static/media/bibliotecha.4a53fca331c9bc591d83.jpg",
+    "static/media/resume.pdf": "/React-Portfolio-v2/static/media/resume.936637b408f088a98502.pdf",
+    "static/media/TPG.jpg": "/React-Portfolio-v2/static/media/TPG.6dad5107a22b0d6ac3ce.jpg",
+    "static/media/readme-gen.jpg": "/React-Portfolio-v2/static/media/readme-gen.eb0846ee279f9452c125.jpg",
+    "static/media/Note-taker.jpg": "/React-Portfolio-v2/static/media/Note-taker.d5cbd60cada02913bc25.jpg",
+    "static/media/breweatheryapp.jpg": "/React-Portfolio-v2/static/media/breweatheryapp.39cf5f4c004b3869028e.jpg",
+    "static/media/profilepic.jpg": "/React-Portfolio-v2/static/media/profilepic.6f0f9e596a95f66c6c4e.jpg",
+    "static/media/weather-dash.jpg": "/React-Portfolio-v2/static/media/weather-dash.fee1549a5ddfa5465d0b.jpg",
+    "index.html": "/React-Portfolio-v2/index.html",
+    "main.46a3d5b3.css.map": "/React-Portfolio-v2/static/css/main.46a3d5b3.css.map",
+    "main.46682148.js.map": "/React-Portfolio-v2/static/js/main.46682148.js.map"
   },
   "entrypoints": [
     "static/css/main.46a3d5b3.css",
-    "static/js/main.2b0d29b7.js"
+    "static/js/main.46682148.js"
   ]
 }
