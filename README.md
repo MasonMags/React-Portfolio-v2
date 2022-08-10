@@ -1,6 +1,11 @@
 # 20 React: React Portfolio
 ## Deployed Link
 
+https://react-app-22.herokuapp.com/
+
+## NOTE
+
+Look at my other repo [here](https://github.com/MasonMags/React-Portfolio) for full commit history
 
 ## The Task
 
